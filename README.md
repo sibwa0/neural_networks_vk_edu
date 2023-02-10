@@ -2,10 +2,11 @@
 BMSTU, technopark 2-nd semester, pytorch
 <br/>
 Semester embraces themes such:
-* linear
-* convolution
-* rnn layers
-* transformers
+* Linear layer
+* Convolution layers
+* Optimization algorithms
+* RNN layers
+* Transformers
 * NLP
 * GANs
 * Reinforcement learning.
